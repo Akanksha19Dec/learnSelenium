@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-public class SeleniumLocators {
+public class SeleniumLocators_ID_Name {
 
 
     //Enter wrong usename
